@@ -1,3 +1,5 @@
+#COPYRIGHT Igor RESHETNYAK 2016-2020 
+
 import math
 import numpy
 import time
